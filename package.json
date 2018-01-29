@@ -1,0 +1,19 @@
+{
+  "name": "designer-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.ryanair.com:7999/ra/designer-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^0.14.3"
+  }
+}
